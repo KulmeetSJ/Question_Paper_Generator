@@ -16,12 +16,11 @@ Maths , Physics , Chemistry , English . All these subjects have variety of quest
 git clone https://github.com/your-username/Question_Paper_Generator.git
 ```
 
-### 2. Set up MongoDB
-
+### 2. Set up MongoDB 
+(Optional for Reelo Testing Team , you may use my credentials in keys.js)
 - Create a MongoDB database and obtain the connection URL.
 - Paste the MongoDB connection URL in the backend_question_paper_gen/config/keys.js file with your username and password.
 - Also add a secretKey in backend_question_paper_gen/config/keys.js file like this one "nQkP30sR6tUkA5vI7yGpN3sZ6wB8gA1v" , it can be anything , you can also use this in your project.
-
 
 
 ### 2. Navigate to the project directory
