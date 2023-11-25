@@ -1,0 +1,1349 @@
+{
+    "Physics": {
+        "Easy": [
+            {
+                "question": "What is the speed of light",
+                "topic": "Waves",
+                "marks": 2
+            },
+            {
+                "question": "Define Newton's First Law of Motion",
+                "topic": "Mechanics",
+                "marks": 2
+            },
+            {
+                "question": "Explain the concept of kinetic energy",
+                "topic": "Energy",
+                "marks": 2
+            },
+            {
+                "question": "State the law of conservation of energy",
+                "topic": "Energy",
+                "marks": 2
+            },
+            {
+                "question": "Define electric current and its unit of measurement",
+                "topic": "Electricity",
+                "marks": 2
+            },
+            {
+                "question": "What is the formula for calculating work done",
+                "topic": "Energy",
+                "marks": 2
+            },
+            {
+                "question": "Explain the term 'refraction' in physics",
+                "topic": "Optics",
+                "marks": 2
+            },
+            {
+                "question": "Describe the difference between speed and velocity",
+                "topic": "Mechanics",
+                "marks": 2
+            },
+            {
+                "question": "What is the significance of the Higgs boson particle",
+                "topic": "Particle Physics",
+                "marks": 2
+            },
+            {
+                "question": "Explain the concept of wave-particle duality",
+                "topic": "Quantum Mechanics",
+                "marks": 2
+            },
+            {
+                "question": "Define the concept of power in physics",
+                "topic": "Energy",
+                "marks": 2
+            },
+            {
+                "question": "Discuss the properties of magnetic fields",
+                "topic": "Electromagnetism",
+                "marks": 2
+            },
+            {
+                "question": "Explain the principle of Archimedes' buoyancy",
+                "topic": "Fluids",
+                "marks": 2
+            },
+            {
+                "question": "Describe the characteristics of sound waves",
+                "topic": "Waves",
+                "marks": 2
+            },
+            {
+                "question": "Define simple harmonic motion",
+                "topic": "Waves",
+                "marks": 2
+            },
+            {
+                "question": "Explain the working principle of a simple pendulum",
+                "topic": "Waves",
+                "marks": 2
+            },
+            {
+                "question": "Define the law of reflection in optics",
+                "topic": "Optics",
+                "marks": 2
+            },
+            {
+                "question": "Discuss the concept of centripetal force",
+                "topic": "Mechanics",
+                "marks": 2
+            },
+            {
+                "question": "What is the difference between mass and weight",
+                "topic": "Mechanics",
+                "marks": 2
+            },
+            {
+                "question": "Explain the principle of conservation of momentum",
+                "topic": "Mechanics",
+                "marks": 2
+            },
+            {
+                "question": "Define the term 'resistance' in electricity",
+                "topic": "Electricity",
+                "marks": 2
+            },
+            {
+                "question": "Discuss the properties of waves",
+                "topic": "Waves",
+                "marks": 2
+            },
+            {
+                "question": "Explain the concept of elastic potential energy",
+                "topic": "Energy",
+                "marks": 2
+            },
+            {
+                "question": "Describe the structure of an atom",
+                "topic": "Particle Physics",
+                "marks": 2
+            },
+            {
+                "question": "What is the formula for Ohm's Law",
+                "topic": "Electricity",
+                "marks": 2
+            },
+            {
+                "question": "Discuss the laws of thermodynamics",
+                "topic": "Thermodynamics",
+                "marks": 2
+            },
+            {
+                "question": "Explain the concept of gravitational potential energy",
+                "topic": "Energy",
+                "marks": 2
+            },
+            {
+                "question": "Define the term 'frequency' in waves",
+                "topic": "Waves",
+                "marks": 2
+            },
+            {
+                "question": "Discuss the principles of electromagnetic induction",
+                "topic": "Electromagnetism",
+                "marks": 2
+            }
+        ],
+        "Medium": [
+            {
+                "question": "Explain the concept of torque in physics",
+                "marks": 5,
+                "topic": "Mechanics"
+            },
+            {
+                "question": "Discuss the principles of electromagnetic waves",
+                "marks": 5,
+                "topic": "Electromagnetism"
+            },
+            {
+                "question": "Explain the photoelectric effect in quantum mechanics",
+                "marks": 5,
+                "topic": "Quantum Mechanics"
+            },
+            {
+                "question": "Define the concept of angular momentum",
+                "marks": 5,
+                "topic": "Mechanics"
+            },
+            {
+                "question": "Discuss the principles of wave interference",
+                "marks": 5,
+                "topic": "Waves"
+            },
+            {
+                "question": "Explain the process of nuclear fission",
+                "marks": 5,
+                "topic": "Nuclear Physics"
+            },
+            {
+                "question": "Describe the properties of electric circuits",
+                "marks": 5,
+                "topic": "Electricity"
+            },
+            {
+                "question": "Discuss the concept of wave function collapse in quantum mechanics",
+                "marks": 5,
+                "topic": "Quantum Mechanics"
+            },
+            {
+                "question": "Explain the concept of thermodynamic entropy",
+                "marks": 5,
+                "topic": "Thermodynamics"
+            },
+            {
+                "question": "Discuss the principles of special relativity",
+                "marks": 5,
+                "topic": "Relativity"
+            },
+            {
+                "question": "Explain the principles of magnetic induction",
+                "marks": 5,
+                "topic": "Electromagnetism"
+            },
+            {
+                "question": "Define the concept of electric potential",
+                "marks": 5,
+                "topic": "Electricity"
+            },
+            {
+                "question": "Discuss the behavior of gases in the kinetic theory of gases",
+                "marks": 5,
+                "topic": "Thermodynamics"
+            },
+            {
+                "question": "Explain the concept of quantum tunneling",
+                "marks": 5,
+                "topic": "Quantum Mechanics"
+            },
+            {
+                "question": "Describe the principles of electric and magnetic fields in electromagnetism",
+                "marks": 5,
+                "topic": "Electromagnetism"
+            },
+            {
+                "question": "Discuss the principles of geometric optics",
+                "marks": 5,
+                "topic": "Optics"
+            },
+            {
+                "question": "Explain the concept of nuclear fusion",
+                "marks": 5,
+                "topic": "Nuclear Physics"
+            },
+            {
+                "question": "Describe the principles of classical mechanics",
+                "marks": 5,
+                "topic": "Mechanics"
+            },
+            {
+                "question": "Discuss the principles of quantum entanglement",
+                "marks": 5,
+                "topic": "Quantum Mechanics"
+            },
+            {
+                "question": "Explain the concept of magnetic dipoles",
+                "marks": 5,
+                "topic": "Electromagnetism"
+            },
+            {
+                "question": "Discuss the principles of wave optics",
+                "marks": 5,
+                "topic": "Optics"
+            },
+            {
+                "question": "Explain the concept of fluid dynamics",
+                "marks": 5,
+                "topic": "Fluids"
+            },
+            {
+                "question": "Define the concept of electric capacitance",
+                "marks": 5,
+                "topic": "Electricity"
+            },
+            {
+                "question": "Discuss the principles of quantum superposition",
+                "marks": 5,
+                "topic": "Quantum Mechanics"
+            }
+        ],
+        "Hard": [
+            {
+                "question": "Explain the principles of quantum field theory",
+                "topic": "Quantum Mechanics",
+                "marks": 10
+            },
+            {
+                "question": "Discuss the mathematical foundations of general relativity",
+                "topic": "Relativity",
+                "marks": 10
+            },
+            {
+                "question": "Explain the concept of black holes and Hawking radiation",
+                "topic": "Astrophysics",
+                "marks": 10
+            },
+            {
+                "question": "Discuss the principles of quantum chromodynamics",
+                "topic": "Particle Physics",
+                "marks": 10
+            },
+            {
+                "question": "Explain the behavior of matter at extreme temperatures in the early universe",
+                "topic": "Cosmology",
+                "marks": 10
+            },
+            {
+                "question": "Discuss the principles of supersymmetry in particle physics",
+                "topic": "Particle Physics",
+                "marks": 10
+            },
+            {
+                "question": "Explain the concept of dark matter in astrophysics",
+                "topic": "Astrophysics",
+                "marks": 10
+            },
+            {
+                "question": "Discuss the principles of quantum entanglement in quantum mechanics",
+                "topic": "Quantum Mechanics",
+                "marks": 10
+            },
+            {
+                "question": "Explain the principles of chaotic systems in classical mechanics",
+                "topic": "Mechanics",
+                "marks": 10
+            },
+            {
+                "question": "Discuss the mathematical foundations of string theory",
+                "topic": "Theoretical Physics",
+                "marks": 10
+            },
+            {
+                "question": "Explain the concept of quantum teleportation",
+                "topic": "Quantum Mechanics",
+                "marks": 10
+            },
+            {
+                "question": "Discuss the principles of quantum computing",
+                "topic": "Quantum Mechanics",
+                "marks": 10
+            },
+            {
+                "question": "Explain the concept of quantum tunneling in particle physics",
+                "topic": "Quantum Mechanics",
+                "marks": 10
+            },
+            {
+                "question": "Discuss the principles of dark energy in cosmology",
+                "topic": "Cosmology",
+                "marks": 10
+            },
+            {
+                "question": "Explain the mathematical foundations of non-Euclidean geometries in relativity",
+                "topic": "Relativity",
+                "marks": 10
+            },
+            {
+                "question": "Discuss the principles of non-locality in quantum mechanics",
+                "topic": "Quantum Mechanics",
+                "marks": 10
+            },
+            {
+                "question": "Explain the concept of inflation in cosmology",
+                "topic": "Cosmology",
+                "marks": 10
+            },
+            {
+                "question": "Discuss the principles of renormalization in quantum field theory",
+                "topic": "Quantum Mechanics",
+                "marks": 10
+            },
+            {
+                "question": "Explain the concept of spontaneous symmetry breaking in particle physics",
+                "topic": "Particle Physics",
+                "marks": 10
+            },
+            {
+                "question": "Discuss the principles of quantum chaos in quantum mechanics",
+                "topic": "Quantum Mechanics",
+                "marks": 10
+            }
+        ]
+    },
+    "Chemistry": {
+        "Easy": [
+            {
+                "question": "What is the chemical symbol for gold?",
+                "topic": "Elements",
+                "marks": 2
+            },
+            {
+                "question": "Define the term 'molecule' in chemistry",
+                "topic": "Basic Concepts",
+                "marks": 2
+            },
+            {
+                "question": "Name the gas essential for combustion",
+                "topic": "Gases",
+                "marks": 2
+            },
+            {
+                "question": "What is the common name for sodium chloride?",
+                "topic": "Compounds",
+                "marks": 2
+            },
+            {
+                "question": "Define the term 'acid' in chemistry",
+                "topic": "Acids and Bases",
+                "marks": 2
+            },
+            {
+                "question": "Name the gas responsible for the greenhouse effect",
+                "topic": "Environmental Chemistry",
+                "marks": 2
+            },
+            {
+                "question": "What is the chemical formula for water?",
+                "topic": "Compounds",
+                "marks": 2
+            },
+            {
+                "question": "Define the term 'isotope' in chemistry",
+                "topic": "Atomic Structure",
+                "marks": 2
+            },
+            {
+                "question": "Name the process of converting a solid directly into a gas",
+                "topic": "Phase Changes",
+                "marks": 2
+            },
+            {
+                "question": "What is the pH scale used for?",
+                "topic": "Acids and Bases",
+                "marks": 2
+            },
+            {
+                "question": "Define the term 'chemical reaction' in chemistry",
+                "topic": "Chemical Reactions",
+                "marks": 2
+            },
+            {
+                "question": "Name the first 20 elements of the periodic table",
+                "topic": "Elements",
+                "marks": 2
+            },
+            {
+                "question": "What is the chemical symbol for oxygen?",
+                "topic": "Elements",
+                "marks": 2
+            },
+            {
+                "question": "Define the term 'mole' in chemistry",
+                "topic": "Stoichiometry",
+                "marks": 2
+            },
+            {
+                "question": "Name the primary component of natural gas",
+                "topic": "Gases",
+                "marks": 2
+            },
+            {
+                "question": "What is the chemical formula for methane?",
+                "topic": "Compounds",
+                "marks": 2
+            },
+            {
+                "question": "Define the term 'ion' in chemistry",
+                "topic": "Atomic Structure",
+                "marks": 2
+            },
+            {
+                "question": "Name the metal that is a liquid at room temperature",
+                "topic": "Metals",
+                "marks": 2
+            },
+            {
+                "question": "What is the chemical formula for carbon dioxide?",
+                "topic": "Compounds",
+                "marks": 2
+            },
+            {
+                "question": "Define the term 'enzyme' in biochemistry",
+                "topic": "Biochemistry",
+                "marks": 2
+            },
+            {
+                "question": "What is the chemical symbol for carbon?",
+                "topic": "Elements",
+                "marks": 2
+            },
+            {
+                "question": "Define the term 'element' in chemistry",
+                "topic": "Basic Concepts",
+                "marks": 2
+            },
+            {
+                "question": "Name the gas responsible for making soda fizzy",
+                "topic": "Gases",
+                "marks": 2
+            },
+            {
+                "question": "What is the common name for hydrochloric acid?",
+                "topic": "Acids and Bases",
+                "marks": 2
+            },
+            {
+                "question": "Define the term 'mixture' in chemistry",
+                "topic": "Mixtures",
+                "marks": 2
+            },
+            {
+                "question": "Name the gas essential for plant photosynthesis",
+                "topic": "Environmental Chemistry",
+                "marks": 2
+            },
+            {
+                "question": "What is the chemical formula for sodium chloride?",
+                "topic": "Compounds",
+                "marks": 2
+            },
+            {
+                "question": "Define the term 'atomic number' in chemistry",
+                "topic": "Atomic Structure",
+                "marks": 2
+            },
+            {
+                "question": "Name the process of converting a gas directly into a solid",
+                "topic": "Phase Changes",
+                "marks": 2
+            },
+            {
+                "question": "What is the purpose of a catalyst in a chemical reaction?",
+                "topic": "Chemical Reactions",
+                "marks": 2
+            }
+        ],
+        "Medium": [
+            {
+                "question": "Explain the concept of valence electrons in atoms",
+                "topic": "Atomic Structure",
+                "marks": 5
+            },
+            {
+                "question": "Discuss the properties and uses of hydrogen peroxide",
+                "topic": "Compounds",
+                "marks": 5
+            },
+            {
+                "question": "Explain the principles of stoichiometry in chemical reactions",
+                "topic": "Stoichiometry",
+                "marks": 5
+            },
+            {
+                "question": "Discuss the different types of chemical bonds",
+                "topic": "Chemical Bonds",
+                "marks": 5
+            },
+            {
+                "question": "Explain the process of chromatography in separation techniques",
+                "topic": "Separation Techniques",
+                "marks": 5
+            },
+            {
+                "question": "Discuss the principles of acid-base titrations",
+                "topic": "Acids and Bases",
+                "marks": 5
+            },
+            {
+                "question": "Explain the concept of entropy in thermodynamics",
+                "topic": "Thermodynamics",
+                "marks": 5
+            },
+            {
+                "question": "Discuss the principles of electrochemistry",
+                "topic": "Electrochemistry",
+                "marks": 5
+            },
+            {
+                "question": "Explain the structure and function of enzymes in biological systems",
+                "topic": "Biochemistry",
+                "marks": 5
+            },
+            {
+                "question": "Discuss the principles of nuclear reactions",
+                "topic": "Nuclear Chemistry",
+                "marks": 5
+            },
+            {
+                "question": "Explain the process of sublimation in phase changes",
+                "topic": "Phase Changes",
+                "marks": 5
+            },
+            {
+                "question": "Discuss the principles of gas laws",
+                "topic": "Gases",
+                "marks": 5
+            },
+            {
+                "question": "Explain the concept of hybridization in molecular geometry",
+                "topic": "Molecular Geometry",
+                "marks": 5
+            },
+            {
+                "question": "Discuss the principles of redox reactions",
+                "topic": "Redox Reactions",
+                "marks": 5
+            },
+            {
+                "question": "Explain the concept of isomerism in organic chemistry",
+                "topic": "Organic Chemistry",
+                "marks": 5
+            },
+            {
+                "question": "Discuss the properties and uses of noble gases",
+                "topic": "Gases",
+                "marks": 5
+            },
+            {
+                "question": "Explain the principles of quantum numbers in atomic structure",
+                "topic": "Atomic Structure",
+                "marks": 5
+            },
+            {
+                "question": "Discuss the principles of coordination compounds",
+                "topic": "Coordination Chemistry",
+                "marks": 5
+            },
+            {
+                "question": "Explain the concept of half-life in radioactive decay",
+                "topic": "Nuclear Chemistry",
+                "marks": 5
+            },
+            {
+                "question": "Discuss the principles of chemical kinetics",
+                "topic": "Chemical Kinetics",
+                "marks": 5
+            }
+        ],
+        "Hard": [
+            {
+                "question": "Explain the principles of quantum chemistry and its applications",
+                "topic": "Quantum Chemistry",
+                "marks": 10
+            },
+            {
+                "question": "Discuss the principles of organometallic chemistry",
+                "topic": "Organometallic Chemistry",
+                "marks": 10
+            },
+            {
+                "question": "Explain the mechanism of enzyme catalysis in biochemistry",
+                "topic": "Biochemistry",
+                "marks": 10
+            },
+            {
+                "question": "Discuss the principles of supramolecular chemistry",
+                "topic": "Supramolecular Chemistry",
+                "marks": 10
+            },
+            {
+                "question": "Explain the concepts of solid-state chemistry",
+                "topic": "Solid-State Chemistry",
+                "marks": 10
+            },
+            {
+                "question": "Discuss the principles of green chemistry and its significance",
+                "topic": "Green Chemistry",
+                "marks": 10
+            },
+            {
+                "question": "Explain the applications of spectroscopy in analytical chemistry",
+                "topic": "Spectroscopy",
+                "marks": 10
+            },
+            {
+                "question": "Discuss the principles of chemical thermodynamics and its applications",
+                "topic": "Chemical Thermodynamics",
+                "marks": 10
+            },
+            {
+                "question": "Explain the principles of crystallography in the study of crystal structures",
+                "topic": "Crystallography",
+                "marks": 10
+            },
+            {
+                "question": "Discuss the applications of nanotechnology in chemistry",
+                "topic": "Nanotechnology",
+                "marks": 10
+            },
+            {
+                "question": "Explain the principles of photochemistry and its role in reactions",
+                "topic": "Photochemistry",
+                "marks": 10
+            },
+            {
+                "question": "Discuss the principles of quantum dots and their applications",
+                "topic": "Quantum Dots",
+                "marks": 10
+            }
+        ]
+    },
+    "Maths": {
+        "Easy": [
+            {
+                "question": "What is the sum of 5 and 7?",
+                "topic": "Basic Arithmetic",
+                "marks": 2
+            },
+            {
+                "question": "Solve the equation: 2x + 3 = 9",
+                "topic": "Linear Equations",
+                "marks": 2
+            },
+            {
+                "question": "Calculate the product of 4 and 6",
+                "topic": "Basic Arithmetic",
+                "marks": 2
+            },
+            {
+                "question": "Find the value of x in the equation: 3x - 5 = 10",
+                "topic": "Linear Equations",
+                "marks": 2
+            },
+            {
+                "question": "What is the square of 9?",
+                "topic": "Exponents",
+                "marks": 2
+            },
+            {
+                "question": "Simplify the expression: 2 + 3 * 4",
+                "topic": "Order of Operations",
+                "marks": 2
+            },
+            {
+                "question": "Calculate the area of a rectangle with length 8 and width 5",
+                "topic": "Geometry",
+                "marks": 2
+            },
+            {
+                "question": "Find the perimeter of a square with side length 7",
+                "topic": "Geometry",
+                "marks": 2
+            },
+            {
+                "question": "Solve the equation: 2y = 14",
+                "topic": "Linear Equations",
+                "marks": 2
+            },
+            {
+                "question": "Calculate the product of 9 and 3",
+                "topic": "Basic Arithmetic",
+                "marks": 2
+            },
+            {
+                "question": "Find the value of x in the equation: 2x + 7 = 15",
+                "topic": "Linear Equations",
+                "marks": 2
+            },
+            {
+                "question": "What is the cube of 3?",
+                "topic": "Exponents",
+                "marks": 2
+            },
+            {
+                "question": "Simplify the expression: 6 / 2 + 4",
+                "topic": "Order of Operations",
+                "marks": 2
+            },
+            {
+                "question": "Calculate the area of a circle with radius 4",
+                "topic": "Geometry",
+                "marks": 2
+            },
+            {
+                "question": "Find the perimeter of a rectangle with length 10 and width 3",
+                "topic": "Geometry",
+                "marks": 2
+            },
+            {
+                "question": "Solve the equation: 3z = 21",
+                "topic": "Linear Equations",
+                "marks": 2
+            },
+            {
+                "question": "Calculate the product of 7 and 2",
+                "topic": "Basic Arithmetic",
+                "marks": 2
+            },
+            {
+                "question": "Find the value of x in the equation: 4x - 8 = 12",
+                "topic": "Linear Equations",
+                "marks": 2
+            },
+            {
+                "question": "What is the square of 6?",
+                "topic": "Exponents",
+                "marks": 2
+            },
+            {
+                "question": "Simplify the expression: 5 * 2 - 3",
+                "topic": "Order of Operations",
+                "marks": 2
+            },
+            {
+                "question": "Calculate the area of a triangle with base 6 and height 4",
+                "topic": "Geometry",
+                "marks": 2
+            },
+            {
+                "question": "Find the perimeter of a square with side length 9",
+                "topic": "Geometry",
+                "marks": 2
+            },
+            {
+                "question": "Solve the equation: 2a + 6 = 18",
+                "topic": "Linear Equations",
+                "marks": 2
+            },
+            {
+                "question": "Calculate the product of 5 and 8",
+                "topic": "Basic Arithmetic",
+                "marks": 2
+            },
+            {
+                "question": "Find the value of x in the equation: 3x + 4 = 16",
+                "topic": "Linear Equations",
+                "marks": 2
+            },
+            {
+                "question": "What is the cube of 2?",
+                "topic": "Exponents",
+                "marks": 2
+            },
+            {
+                "question": "Simplify the expression: 7 - 2 * 3",
+                "topic": "Order of Operations",
+                "marks": 2
+            },
+            {
+                "question": "Calculate the area of a rectangle with length 12 and width 8",
+                "topic": "Geometry",
+                "marks": 2
+            },
+            {
+                "question": "Find the perimeter of a rectangle with length 7 and width 5",
+                "topic": "Geometry",
+                "marks": 2
+            }
+        ],
+        "Medium": [
+            {
+                "question": "Solve the system of equations: \n3x + 2y = 12 \n2x - y = 3",
+                "topic": "Systems of Equations",
+                "marks": 5
+            },
+            {
+                "question": "Calculate the value of π (pi) to three decimal places",
+                "topic": "Geometry",
+                "marks": 5
+            },
+            {
+                "question": "Factorize the quadratic expression: x^2 + 5x + 6",
+                "topic": "Quadratic Equations",
+                "marks": 5
+            },
+            {
+                "question": "Evaluate the expression: √16 + (3^2 - 2)",
+                "topic": "Algebra",
+                "marks": 5
+            },
+            {
+                "question": "Find the domain of the function: f(x) = 1/(x - 2)",
+                "topic": "Functions",
+                "marks": 5
+            },
+            {
+                "question": "Solve the inequality: 2x - 5 > 3",
+                "topic": "Inequalities",
+                "marks": 5
+            },
+            {
+                "question": "Calculate the value of sin(45 degrees)",
+                "topic": "Trigonometry",
+                "marks": 5
+            },
+            {
+                "question": "Find the midpoint of the line segment with endpoints (2, 4) and (6, 10)",
+                "topic": "Coordinate Geometry",
+                "marks": 5
+            },
+            {
+                "question": "Simplify the expression: (a^2 + 2ab + b^2) / (a + b)",
+                "topic": "Algebra",
+                "marks": 5
+            },
+            {
+                "question": "Calculate the area of a right-angled triangle with base 8 and height 6",
+                "topic": "Geometry",
+                "marks": 5
+            },
+            {
+                "question": "Find the solution to the logarithmic equation: log₂(x) = 3",
+                "topic": "Logarithms",
+                "marks": 5
+            },
+            {
+                "question": "Evaluate the expression: 2^(3/2)",
+                "topic": "Exponents",
+                "marks": 5
+            },
+            {
+                "question": "Determine the value of cos(60 degrees)",
+                "topic": "Trigonometry",
+                "marks": 5
+            },
+            {
+                "question": "Factorize the quadratic expression: x^2 - 4x - 5",
+                "topic": "Quadratic Equations",
+                "marks": 5
+            },
+            {
+                "question": "Calculate the perimeter of a rectangle with length 10 and width 4",
+                "topic": "Geometry",
+                "marks": 5
+            },
+            {
+                "question": "Solve the system of equations: \n2x + 3y = 7 \n4x - 2y = 10",
+                "topic": "Systems of Equations",
+                "marks": 5
+            },
+            {
+                "question": "Find the roots of the equation: x^2 - 6x + 9 = 0",
+                "topic": "Quadratic Equations",
+                "marks": 5
+            },
+            {
+                "question": "Evaluate the expression: tan(30 degrees)",
+                "topic": "Trigonometry",
+                "marks": 5
+            },
+            {
+                "question": "Determine the value of log₄(16)",
+                "topic": "Logarithms",
+                "marks": 5
+            },
+            {
+                "question": "Calculate the volume of a cylinder with radius 3 and height 8",
+                "topic": "Geometry",
+                "marks": 5
+            }
+        ],
+        "Hard": [
+            {
+                "question": "Prove the Pythagorean Theorem",
+                "topic": "Geometry",
+                "marks": 10
+            },
+            {
+                "question": "Solve the system of three equations: \n2x + y - z = 5 \n3x - 2y + 2z = 3 \n4x + 3y - 5z = 10",
+                "topic": "Systems of Equations",
+                "marks": 10
+            },
+            {
+                "question": "Evaluate the integral: ∫(2x^2 + 3x + 1) dx",
+                "topic": "Calculus",
+                "marks": 10
+            },
+            {
+                "question": "Prove Fermat's Last Theorem",
+                "topic": "Number Theory",
+                "marks": 10
+            },
+            {
+                "question": "Find the Taylor series expansion for the function f(x) = sin(x)",
+                "topic": "Calculus",
+                "marks": 10
+            },
+            {
+                "question": "Solve the differential equation: dy/dx = 2xy",
+                "topic": "Differential Equations",
+                "marks": 10
+            },
+            {
+                "question": "Prove the Fundamental Theorem of Calculus",
+                "topic": "Calculus",
+                "marks": 10
+            },
+            {
+                "question": "Determine the eigenvalues of the matrix: \n[ 4  2 ]\n[ 1 -3 ]",
+                "topic": "Linear Algebra",
+                "marks": 10
+            },
+            {
+                "question": "Evaluate the limit: lim(x → 0) (sin(x)/x)",
+                "topic": "Limits",
+                "marks": 10
+            },
+            {
+                "question": "Solve the nonlinear system of equations: \nx^2 + y^2 = 5 \nxy = 3",
+                "topic": "Systems of Equations",
+                "marks": 10
+            },
+            {
+                "question": "Find the arc length of the curve y = x^(3/2) from x = 0 to x = 4",
+                "topic": "Calculus",
+                "marks": 10
+            },
+            {
+                "question": "Prove the Cauchy-Schwarz Inequality",
+                "topic": "Linear Algebra",
+                "marks": 10
+            },
+            {
+                "question": "Solve the partial differential equation: ∂^2u/∂x^2 + ∂^2u/∂y^2 = 0",
+                "topic": "Partial Differential Equations",
+                "marks": 10
+            },
+            {
+                "question": "Prove the Binomial Theorem",
+                "topic": "Algebra",
+                "marks": 10
+            },
+            {
+                "question": "Evaluate the triple integral: ∫∫∫ (x^2 + y^2 + z^2) dV, where the region is bounded by x^2 + y^2 = 4 and z = 0 to z = 3",
+                "topic": "Calculus",
+                "marks": 10
+            }
+        ]
+    },
+    "English": {
+        "Easy": [
+            {
+                "question": "What is the plural form of 'book'?",
+                "topic": "Grammar",
+                "marks": 2
+            },
+            {
+                "question": "Identify the antonym of 'happy'.",
+                "topic": "Vocabulary",
+                "marks": 2
+            },
+            {
+                "question": "Fill the correct verb form: She _______ to the store yesterday.",
+                "topic": "Grammar",
+                "marks": 2
+            },
+            {
+                "question": "What is the synonym of 'begin'?",
+                "topic": "Vocabulary",
+                "marks": 2
+            },
+            {
+                "question": "Which sentence is grammatically correct? \na) They is going to the party. \nb) They are going to the party.",
+                "topic": "Grammar",
+                "marks": 2
+            },
+            {
+                "question": "Identify the part of speech of the word 'quickly' in the sentence: He ran quickly to catch the bus.",
+                "topic": "Grammar",
+                "marks": 2
+            },
+            {
+                "question": "Fill the correct preposition: The cat is sitting ______ the roof.",
+                "topic": "Grammar",
+                "marks": 2
+            },
+            {
+                "question": "What is the plural form of 'child'?",
+                "topic": "Grammar",
+                "marks": 2
+            },
+            {
+                "question": "Identify the synonym of 'brave'.",
+                "topic": "Vocabulary",
+                "marks": 2
+            },
+            {
+                "question": "Select the correct sentence: \na) I has a pen. \nb) I have a pen.",
+                "topic": "Grammar",
+                "marks": 2
+            },
+            {
+                "question": "What is the antonym of 'beautiful'?",
+                "topic": "Vocabulary",
+                "marks": 2
+            },
+            {
+                "question": "Fill the correct conjunction: She wants to go shopping, ____ she has no money.",
+                "topic": "Grammar",
+                "marks": 2
+            },
+            {
+                "question": "Identify the part of speech of the word 'happiness' in the sentence: Her happiness was contagious.",
+                "topic": "Grammar",
+                "marks": 2
+            },
+            {
+                "question": "What is the plural form of 'man'?",
+                "topic": "Grammar",
+                "marks": 2
+            },
+            {
+                "question": "Select the correct sentence: \na) He don't like pizza. \nb) He doesn't like pizza.",
+                "topic": "Grammar",
+                "marks": 2
+            },
+            {
+                "question": "What is the synonym of 'small'?",
+                "topic": "Vocabulary",
+                "marks": 2
+            },
+            {
+                "question": "Fill the correct preposition: The cat is hiding ______ the bed.",
+                "topic": "Grammar",
+                "marks": 2
+            },
+            {
+                "question": "Identify the antonym of 'strong'.",
+                "topic": "Vocabulary",
+                "marks": 2
+            },
+            {
+                "question": "Which sentence is grammatically correct? \na) The dogs is barking loudly. \nb) The dogs are barking loudly.",
+                "topic": "Grammar",
+                "marks": 2
+            },
+            {
+                "question": "What is the plural form of 'box'?",
+                "topic": "Grammar",
+                "marks": 2
+            },
+            {
+                "question": "Identify the part of speech of the word 'running' in the sentence: She enjoys running in the park.",
+                "topic": "Grammar",
+                "marks": 2
+            },
+            {
+                "question": "Fill the correct verb form: They _______ a new car last week.",
+                "topic": "Grammar",
+                "marks": 2
+            },
+            {
+                "question": "What is the synonym of 'clever'?",
+                "topic": "Vocabulary",
+                "marks": 2
+            },
+            {
+                "question": "Select the correct sentence: \na) We am going to the movies. \nb) We are going to the movies.",
+                "topic": "Grammar",
+                "marks": 2
+            },
+            {
+                "question": "Identify the antonym of 'slow'.",
+                "topic": "Vocabulary",
+                "marks": 2
+            },
+            {
+                "question": "What is the plural form of 'city'?",
+                "topic": "Grammar",
+                "marks": 2
+            },
+            {
+                "question": "Fill the correct conjunction: I like coffee, ____ I don't like tea.",
+                "topic": "Grammar",
+                "marks": 2
+            },
+            {
+                "question": "Identify the part of speech of the word 'joyful' in the sentence: The children were joyful at the playground.",
+                "topic": "Grammar",
+                "marks": 2
+            },
+            {
+                "question": "What is the antonym of 'angry'?",
+                "topic": "Vocabulary",
+                "marks": 2
+            }
+        ],
+        "Medium": [
+            {
+                "question": "Identify the correct use of the apostrophe in the sentence: The dogs tail was wagging.",
+                "topic": "Grammar",
+                "marks": 5
+            },
+            {
+                "question": "Choose the appropriate homophone: \nThey're / Their / There going to the park.",
+                "topic": "Vocabulary",
+                "marks": 5
+            },
+            {
+                "question": "Fill in the blank with the correct relative pronoun: The person _____ won the contest is my friend.",
+                "topic": "Grammar",
+                "marks": 5
+            },
+            {
+                "question": "Identify the correct sentence structure: \na) She is good at singing and dancing. \nb) Good at singing and dancing is she.",
+                "topic": "Grammar",
+                "marks": 5
+            },
+            {
+                "question": "Fill the correct word: The teacher told the students to ___________ down and be quiet.",
+                "topic": "Vocabulary",
+                "marks": 5
+            },
+            {
+                "question": "Select the appropriate conjunction: She wanted to go out, ____ it was raining.",
+                "topic": "Grammar",
+                "marks": 5
+            },
+            {
+                "question": "Fill in the blank with the correct preposition: The cat jumped __________ the table.",
+                "topic": "Grammar",
+                "marks": 5
+            },
+            {
+                "question": "Identify the correct use of the comma in the sentence: My favorite activities include hiking, reading, and swimming.",
+                "topic": "Grammar",
+                "marks": 5
+            },
+            {
+                "question": "Fill the correct word: The mystery novel had a surprising ____________.",
+                "topic": "Vocabulary",
+                "marks": 5
+            },
+            {
+                "question": "Complete the sentence with the correct form of the verb: He ________ to the store every day.",
+                "topic": "Grammar",
+                "marks": 5
+            },
+            {
+                "question": "Identify the correct sentence: \na) Their going to the store. \nb) They're going to the store.",
+                "topic": "Grammar",
+                "marks": 5
+            },
+            {
+                "question": "Give the appropriate synonym for 'happy'.",
+                "topic": "Vocabulary",
+                "marks": 5
+            },
+            {
+                "question": "Fill in the blank with the correct conjunction: He studied hard, ____ he failed the exam.",
+                "topic": "Grammar",
+                "marks": 5
+            },
+            {
+                "question": "Identify the correct use of the semicolon in the sentence: She finished her work; then, she went home.",
+                "topic": "Grammar",
+                "marks": 5
+            },
+            {
+                "question": "Select the appropriate antonym for 'brilliant'.",
+                "topic": "Vocabulary",
+                "marks": 5
+            },
+            {
+                "question": "Complete the sentence with the correct form of the pronoun: Lisa and ______ went to the park.",
+                "topic": "Grammar",
+                "marks": 5
+            },
+            {
+                "question": "Fill the correct word: The old book had a musty __________.",
+                "topic": "Vocabulary",
+                "marks": 5
+            },
+            {
+                "question": "Identify the correct use of the exclamation mark in the sentence: What a beautiful sunset!",
+                "topic": "Grammar",
+                "marks": 5
+            },
+            {
+                "question": "Fill in the blank with the correct adverb: She spoke __________ during the interview.",
+                "topic": "Grammar",
+                "marks": 5
+            },
+            {
+                "question": "Give the appropriate synonym for 'confused'.",
+                "topic": "Vocabulary",
+                "marks": 5
+            }
+        ],
+        "Hard": [
+            {
+                "question": "Identify the correct use of the subjunctive mood in the sentence: If I were you, I ________ take that opportunity.",
+                "topic": "Grammar",
+                "marks": 10
+            },
+            {
+                "question": "Choose the correct word: The esoteric concept was difficult to understand due to its __________ nature.",
+                "topic": "Vocabulary",
+                "marks": 10
+            },
+            {
+                "question": "Fill in the blank with the correct relative pronoun: The person ________ car was stolen reported the incident to the police.",
+                "topic": "Grammar",
+                "marks": 10
+            },
+            {
+                "question": "Identify the correct sentence structure: \na) Having studied all night, he felt prepared for the exam. \nb) All night having studied, he felt prepared for the exam.",
+                "topic": "Grammar",
+                "marks": 10
+            },
+            {
+                "question": "Choose the appropriate synonym for 'ubiquitous'.",
+                "topic": "Vocabulary",
+                "marks": 10
+            },
+            {
+                "question": "Select the correct word: The lawyer's ___________ arguments persuaded the jury to change their verdict.",
+                "topic": "Vocabulary",
+                "marks": 10
+            },
+            {
+                "question": "Fill in the blank with the correct conjunction: The scientist discovered the new element, ________ no one had seen before.",
+                "topic": "Grammar",
+                "marks": 10
+            },
+            {
+                "question": "Identify the correct use of the em dash in the sentence: The concert — which was the highlight of the festival — was canceled due to bad weather.",
+                "topic": "Grammar",
+                "marks": 10
+            },
+            {
+                "question": "Choose the appropriate antonym for 'ephemeral'.",
+                "topic": "Vocabulary",
+                "marks": 10
+            },
+            {
+                "question": "Complete the sentence with the correct form of the verb: The team ________ the championship for the third consecutive year.",
+                "topic": "Grammar",
+                "marks": 10
+            },
+            {
+                "question": "Identify the correct sentence: \na) She will never forgives you. \nb) She will never forgive you.",
+                "topic": "Grammar",
+                "marks": 10
+            },
+            {
+                "question": "Choose the appropriate homograph: \nTear (to rip) / Tear (a drop from the eye)",
+                "topic": "Vocabulary",
+                "marks": 10
+            },
+            {
+                "question": "Fill in the blank with the correct preposition: The artist painted a mural __________ the entire wall.",
+                "topic": "Grammar",
+                "marks": 10
+            },
+            {
+                "question": "Identify the correct use of the hyphen in the sentence: The state-of-the-art technology was ahead of its time.",
+                "topic": "Grammar",
+                "marks": 10
+            },
+            {
+                "question": "Choose the appropriate synonym for 'cacophony'.",
+                "topic": "Vocabulary",
+                "marks": 10
+            }
+        ]
+    }
+}
