@@ -1,6 +1,7 @@
 # Question_Paper_Generator
 
-This is a web application for generating and previewing question papers.
+This is a web application for generating and previewing question papers. I have created a question_bank.json file currently having 4 subjects only , which are :
+Maths , Physics , Chemistry , English . All these subjects have variety of questions all Easy , Medium & Hard Difficulty. Easy questions is of 2 marks each , Medium question is of 5 marks each and Hard question is of 10 marks each. 
 
 ## Prerequisites
 
