@@ -1,0 +1,6 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+export const GET_QUESTION_ERRORS = "GET_QUESTION_ERRORS";
+export const REMOVE_QUES_PAPER = "REMOVE_QUES_PAPER";
+export const SET_FORM_DATA = 'SET_FORM_DATA';
+export const SET_PAPER_DATA = 'SET_PAPER_DATA';
